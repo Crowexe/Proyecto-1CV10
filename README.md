@@ -9,8 +9,8 @@ Rafael Norman Saucedo Delgado
 Integrantes  
   
 • Venegas Avila Luis Fernando  
-• Molina Gutiérrez Luz Victoria
+• Molina Gutiérrez Luz Victoria  
 • Montaño Reyes Jennifer  
-• González Rodríguez Juan Manuel
-• Noé Jasiel Silva Hernández
-• Garcia Garcia Cano Ivan 
+• González Rodríguez Juan Manuel  
+• Noé Jasiel Silva Hernández  
+• Garcia Garcia Cano Ivan   
