@@ -12,5 +12,5 @@ Rafael Norman Saucedo Delgado
 • Molina Gutiérrez Luz Victoria  
 • Montaño Reyes Jennifer  
 • Noé Jasiel Silva Hernández  
-• Pérez Antonio David
+• Pérez Antonio David  
 • Venegas Avila Luis Fernando  
