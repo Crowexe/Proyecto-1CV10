@@ -6,11 +6,11 @@
 **Profesor:**  
 Rafael Norman Saucedo Delgado
   
-**Integrantes:**  
-• Venegas Avila Luis Fernando  
+**Integrantes:**
+• Garcia Garcia Cano Ivan   
+• González Rodríguez Juan Manuel  
 • Molina Gutiérrez Luz Victoria  
 • Montaño Reyes Jennifer  
-• González Rodríguez Juan Manuel  
 • Noé Jasiel Silva Hernández  
-• Garcia Garcia Cano Ivan   
 • Pérez Antonio David
+• Venegas Avila Luis Fernando  
