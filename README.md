@@ -6,7 +6,8 @@
 **Profesor:**  
 Rafael Norman Saucedo Delgado
   
-**Integrantes:**
+**Integrantes:**  
+• Angeles Marin Yhair Fernando  
 • Garcia Garcia Cano Ivan   
 • González Rodríguez Juan Manuel  
 • Molina Gutiérrez Luz Victoria  
