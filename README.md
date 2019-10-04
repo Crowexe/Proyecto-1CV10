@@ -7,5 +7,5 @@ Profesor
 Rafael Norman Saucedo Delgado
 
 Integrantes
-\\*´
 -Venegas Avila Luis Fernando
+-Garcia Garcia Cano Ivan 
