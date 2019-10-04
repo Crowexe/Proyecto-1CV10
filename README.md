@@ -3,11 +3,10 @@
   
 **1CV10**
   
-**Profesor**  
+**Profesor:**  
 Rafael Norman Saucedo Delgado
   
-**Integrantes**  
-  
+**Integrantes:**  
 • Venegas Avila Luis Fernando  
 • Molina Gutiérrez Luz Victoria  
 • Montaño Reyes Jennifer  
