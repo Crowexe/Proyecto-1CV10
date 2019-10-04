@@ -13,3 +13,4 @@ Integrantes
 -Montaño Reyes Jennifer  
 -González Rodríguez Juan Manuel
 -Noé Jasiel Silva Hernández
+-Garcia Garcia Cano Ivan 
