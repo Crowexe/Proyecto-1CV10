@@ -6,7 +6,7 @@
 **Profesor**  
 Rafael Norman Saucedo Delgado
   
-Integrantes  
+**Integrantes**  
   
 • Venegas Avila Luis Fernando  
 • Molina Gutiérrez Luz Victoria  
