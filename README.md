@@ -1,12 +1,12 @@
 # Proyecto de estructos de datos
 ## Estamos viendo
-
+  
 1CV10
-
-Profesor
+  
+Profesor  
 Rafael Norman Saucedo Delgado
-
-Integrantes
-\\*´
--Venegas Avila Luis Fernando
+  
+Integrantes  
+  
+-Venegas Avila Luis Fernando  
 -Molina Gutiérrez Luz Victoria
