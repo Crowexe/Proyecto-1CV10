@@ -10,4 +10,6 @@ Integrantes
   
 -Venegas Avila Luis Fernando  
 -Molina Gutiérrez Luz Victoria
--Garcia Garcia Cano Ivan 
+-Montaño Reyes Jennifer  
+-González Rodríguez Juan Manuel
+-Noé Jasiel Silva Hernández
