@@ -1,4 +1,4 @@
-# **Proyecto de Estructas de datos**
+# **Proyecto de Estructuras de datos**
 ## Pac-man online
   
 **1CV10**
