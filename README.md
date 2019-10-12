@@ -1,4 +1,4 @@
-# **Proyecto de estructos de datos**
+# **Proyecto de Estructas de datos**
 ## Pac-man online
   
 **1CV10**
@@ -15,11 +15,13 @@ Rafael Norman Saucedo Delgado
 • Noé Jasiel Silva Hernández  
 • Pérez Antonio David  
 • Venegas Avila Luis Fernando  
-  
-    
-      
-  
-    
-## **Descripción**  
-El juego constartá de un modo para un solo jugador, donde se podrá disfrutar del clasico juego de pac-man y competir en el marcador de los mejores 10. Sumado a un modo multijugador de hasta 5 personas,donde se competiran 4 jugadores jugando como fantasmas y 1 como pac-man, mientras pac-man podrá tener la vista general de donde están los 4 fantasmas, los fanstasmas sólo podrán ver su posición y peridicamente podrán observar la posición de pac-man, este modo tendrá las reglas standar de pac-man, sólo con la diferencia de que en vez de ser controlados por bots, los fantasmas serán personas y al igual que pac-man, tendrás su marcador de los mejores 10, según el tiempo que tarden en matar a pac-man y el numero de veces que lo hicieron.  
 
+## **Descripción**  
+El juego constará de un modo para un solo jugador, donde se podrá disfrutar del clásico juego de pac-man y 
+competir en el marcador de los mejores diez. Sumado a un modo multijugador de hasta cinco personas,
+donde se competirán cuatro jugadores jugando como fantasmas y uno como pac-man, 
+mientras pac-man podrá tener la vista general de donde están los cuatro fantasmas, 
+los fanstasmas sólo podrán ver su posición y periodicamente podrán observar la posición de pac-man, 
+este modo tendrá las reglas estándar de pac-man, sólo con la diferencia de que en vez de ser controlados por *bots*, 
+los fantasmas serán personas y al igual que pac-man, tendrás su marcador de los mejores diez, 
+según el tiempo que tarden en matar a pac-man y el número de veces que lo hicieron.
