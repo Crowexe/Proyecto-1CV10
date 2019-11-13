@@ -1,6 +1,6 @@
 
 {
-    "name": "room1",
+    "name": "Menu",
     "id": "a8b33544-44a4-4210-b8d9-8cf99745ed40",
     "creationCodeFile": "",
     "inheritCode": false,

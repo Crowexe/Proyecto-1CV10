@@ -12,7 +12,7 @@ switch (texto) {
 		break;
 		
 	case "Creditos":
-	
+		room_goto(Creditos);
 		break;
 		
     default:
