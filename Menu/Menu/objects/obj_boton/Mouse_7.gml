@@ -1,3 +1,8 @@
+if(press == false) 
+	{
+		exit;
+	}
+
 switch (texto) {
     case "Un solo jugador":
         
@@ -8,7 +13,11 @@ switch (texto) {
 		break;
 		
 	case "Marcador":
-	
+		room_goto(MarcadorSP);
+		if(texto == "Multiplayer")
+			{
+				room_goto(MarcadorMP);	
+			}
 		break;
 		
 	case "Creditos":
