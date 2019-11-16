@@ -127,6 +127,30 @@
             }
         },
         {
+            "Key": "7442355a-ad33-4390-9792-e8601c161e02",
+            "Value": {
+                "id": "9d1efc7e-c8a7-4b81-879e-c9b55f495da2",
+                "resourcePath": "rooms\\Multiplayer\\Multiplayer.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "77c26ccd-862c-430c-98bd-5b6d91c18050",
+            "Value": {
+                "id": "d03034c3-7ccc-4887-a1f6-80a53947a084",
+                "resourcePath": "scripts\\scr_received_packet\\scr_received_packet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "7b28ab0b-6733-4f28-91ec-ff48e7824a8e",
+            "Value": {
+                "id": "b736bdb3-a29b-4df5-9d34-8ac5e2473843",
+                "resourcePath": "sprites\\Botton_CrearSala\\Botton_CrearSala.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7b40c3c3-0a64-40e2-addc-e2f94be52387",
             "Value": {
                 "id": "521b7a61-4cba-4f5d-abe5-19eb023eb9f4",
@@ -183,6 +207,14 @@
             }
         },
         {
+            "Key": "ad77f4f9-cd84-43e5-96a1-360d1672e542",
+            "Value": {
+                "id": "4312946b-c063-4a1d-8867-b28adb317d8e",
+                "resourcePath": "objects\\Obj_CrearCliente\\Obj_CrearCliente.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ada8d901-0aa6-4997-8d5d-1bdeb2d201ae",
             "Value": {
                 "id": "07324093-5f2e-4d12-88d6-df7bc4127f5d",
@@ -203,6 +235,14 @@
             "Value": {
                 "id": "7fa19770-1275-4381-bc03-df1113464f2e",
                 "resourcePath": "sprites\\BG\\BG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "baa080cc-a6d4-4f33-b8c3-32ac8dde2d27",
+            "Value": {
+                "id": "27906b70-199b-46dc-8bd9-e25c5b6d6a80",
+                "resourcePath": "sprites\\Botton_UnirseSala\\Botton_UnirseSala.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -239,6 +279,14 @@
             }
         },
         {
+            "Key": "d5f3494b-8417-4421-932b-8cd6e4f5dd40",
+            "Value": {
+                "id": "10f102ac-df5c-4eec-8f16-f363961f7560",
+                "resourcePath": "objects\\Obj_CrearServidor\\Obj_CrearServidor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e7acd263-39a9-41a5-b616-0172298f11de",
             "Value": {
                 "id": "69391f35-20a4-4c75-9d12-7f15f5118cce",
@@ -256,7 +304,7 @@
         }
     ],
     "script_order": [
-        
+        "77c26ccd-862c-430c-98bd-5b6d91c18050"
     ],
     "tutorial": ""
 }

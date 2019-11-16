@@ -9,7 +9,7 @@ switch (texto) {
         break;
 		
 	case "Multijugador":
-	
+		room_goto(Multiplayer);
 		break;
 		
 	case "Marcador":
@@ -26,7 +26,7 @@ switch (texto) {
         break;
 }
 if(texto == "Multiplayer")	{
-	room_goto(MarcadorMP);	
+	room_goto(Multiplayer);	
 }else if(texto == "Single player"){
 	room_goto(MarcadorSP);
 }
