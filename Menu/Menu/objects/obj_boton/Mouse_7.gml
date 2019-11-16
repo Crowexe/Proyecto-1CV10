@@ -14,10 +14,7 @@ switch (texto) {
 		
 	case "Marcador":
 		room_goto(MarcadorSP);
-		if(texto == "Multiplayer")
-			{
-				room_goto(MarcadorMP);	
-			}
+		
 		break;
 		
 	case "Creditos":
@@ -28,3 +25,9 @@ switch (texto) {
         // code here
         break;
 }
+if(texto == "Multiplayer")	{
+	room_goto(MarcadorMP);	
+}else if(texto == "Single player"){
+	room_goto(MarcadorSP);
+}
+	

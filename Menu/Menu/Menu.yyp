@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "b106f16e-7b37-4788-abfb-b8ab899fdd94",
+            "Value": {
+                "id": "044c13b6-75ba-4882-b429-6a3e26f743fa",
+                "resourcePath": "sprites\\CreditosBG\\CreditosBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b2179d07-deb9-4992-a40f-35fd09d7f23d",
             "Value": {
                 "id": "7fa19770-1275-4381-bc03-df1113464f2e",
