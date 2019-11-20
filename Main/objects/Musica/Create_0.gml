@@ -1,0 +1,1 @@
+audio_is_playing(Menu_Song);
