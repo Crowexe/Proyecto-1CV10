@@ -24,4 +24,9 @@ mientras pac-man podrá tener la vista general de donde están los cuatro fantas
 los fanstasmas sólo podrán ver su posición y periodicamente podrán observar la posición de pac-man, 
 este modo tendrá las reglas estándar de pac-man, sólo con la diferencia de que en vez de ser controlados por *bots*, 
 los fantasmas serán personas y al igual que pac-man, tendrás su marcador de los mejores diez, 
-según el tiempo que tarden en matar a pac-man y el número de veces que lo hicieron.
+según el tiempo que tarden en matar a pac-man y el número de veces que lo hicieron.  
+  
+## **Intrucciones de inicio**  
+Instalar el software GameMaker Studio 2, en su versión 2.2.4.474:  
+https://accounts.yoyogames.com/downloads  
+Descargar la carpeta "Main" y acceder al archivo main.yyp, abrirlo usando el software y eejcutarlo.  
