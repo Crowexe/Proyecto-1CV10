@@ -22,10 +22,12 @@ if  !(global.Golpe)
 	audio_stop_all();
 	audio_play_sound(sound_muerte,100,0);
 	speed = 0; 
-	//var global.Vidas = ds_stack_pop(global.Vidas);
-	//global.Vidas = ds_stack_pop(global.Vidas);
-	global.Vidas =global.Vidas - 1;
+	ds_stack_pop(global.Vidas);
+	
 	sprite_index = movmorir; 
 	image_speed =1; 
+	if(ds_stack_empty(global.Vidas)){
+		room_goto(Menu);
+	}
 	global.Golpe = true;
 }
