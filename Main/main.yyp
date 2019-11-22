@@ -319,6 +319,22 @@
             }
         },
         {
+            "Key": "aa5a2ae4-472a-4acb-944a-bc720ad74d18",
+            "Value": {
+                "id": "6b84a48a-420d-46db-9c57-2d126e8eac44",
+                "resourcePath": "views\\914e84c2-ffd2-462c-9b38-b829fab205ad-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab8364a6-61d6-4e70-8167-2edd1ce380c0",
+            "Value": {
+                "id": "f2a74787-39dc-4a5e-aac3-8f9138454732",
+                "resourcePath": "objects\\FantasmaMulti1\\FantasmaMulti1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aede7364-9961-4c7d-840d-be3d95b5c065",
             "Value": {
                 "id": "4134f28c-18c5-483d-b07e-a604ff7d19ec",
@@ -412,6 +428,14 @@
                 "id": "38dbc5d5-0a48-49e2-9efd-ee0c29e94597",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf1750d1-ec26-47dd-a9e3-01290980c765",
+            "Value": {
+                "id": "df10c540-e7f9-4465-87a9-08892c8aa061",
+                "resourcePath": "rooms\\Pacman1P1\\Pacman1P1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

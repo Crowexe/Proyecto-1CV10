@@ -6,5 +6,6 @@ image_index= 0;
 
 //velocidad de mov
 v = 4;
+//vidas de pacman
 global.Vidas = ds_stack_create();
 ds_stack_push(global.Vidas,1,2,3);

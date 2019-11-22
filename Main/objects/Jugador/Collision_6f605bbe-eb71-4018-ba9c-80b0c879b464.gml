@@ -16,6 +16,16 @@ with(objefantas)
 		
 	};
 	
+	with(FantasmaMulti1)
+	{
+		sprite_index = fantasmaasustado;
+		image_speed = 0; 
+		image_index = 0;
+		
+		ve = 2;
+		speed = 2; 
+		
+	};
 	
 	
 with (other)
