@@ -17,14 +17,15 @@ Rafael Norman Saucedo Delgado
 • Venegas Avila Luis Fernando  
 
 ## **Descripción**  
+
 El juego constará de un modo para un solo jugador, donde se podrá disfrutar del clásico juego de pac-man y 
-competir en el marcador de los mejores diez. Sumado a un modo multijugador de hasta cinco personas,
-donde se competirán cuatro jugadores jugando como fantasmas y uno como pac-man, 
-mientras pac-man podrá tener la vista general de donde están los cuatro fantasmas, 
-los fanstasmas sólo podrán ver su posición y periódicamente podrán observar la posición de pac-man, 
-este modo tendrá las reglas estándar de pac-man, sólo con la diferencia de que en vez de ser controlados por *bots*, 
-los fantasmas serán personas y al igual que pac-man, tendrás su marcador de los mejores diez, 
-según el tiempo que tarden en matar a pac-man y el número de veces que lo hicieron.  
+competir en el marcador de los mejores diez. Sumado a un modo multijugador de dos controles en el mismo teclado,
+pac-man vs fantasmas, uno de los fantasmas sera controlado por un jugador con las teclas w (subir), a (izquierda), 
+s (bajar), d (derecha) y el otro jugador controlara a pac-man con las teclas de flechas, en este modo el objetivo 
+general de pac-man sera escapar del fantasma manipulado por el otro jugador y comer el poder para posteriormente 
+comerse al fantasma y en ese momento el juego termina con victoria para el jugador pac-man y en el caso del jugador
+que manipula el fantasma sera atrapar a pac-man tres veces para tener la victoria en el juego.
+  
   
 ## **Instrucciones de inicio**  
 Instalar el software GameMaker Studio 2, en su versión 2.2.4.474:  
