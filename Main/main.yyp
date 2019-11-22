@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "52703903-2744-4400-88dd-f7089bd6abad",
+            "Value": {
+                "id": "f9606db9-f157-4a47-971d-bc91d9d5a913",
+                "resourcePath": "sprites\\Bono\\Bono.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "52bcef14-b467-409c-a3b4-e462e2052221",
             "Value": {
                 "id": "a947e518-f3c4-4860-a6dd-f5d96dd73bfe",
@@ -388,6 +396,14 @@
                 "id": "51bf1294-b897-409a-9557-8a05af5fa535",
                 "resourcePath": "fonts\\fnt_texto\\fnt_texto.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "c4bcac3f-465a-4af7-af1f-137cacf62eb7",
+            "Value": {
+                "id": "a6dcc302-4a77-46f1-b1ad-622f43588161",
+                "resourcePath": "objects\\Bono_fruta\\Bono_fruta.yy",
+                "resourceType": "GMObject"
             }
         },
         {
