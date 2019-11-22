@@ -27,7 +27,7 @@ if  !(global.Golpe)
 	sprite_index = movmorir; 
 	image_speed =1; 
 	if(ds_stack_empty(global.Vidas)){
-		room_goto(Menu);
+		room_goto(GameOver);
 	}
 	global.Golpe = true;
 }

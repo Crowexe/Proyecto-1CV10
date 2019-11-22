@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "6cc02f69-7247-45ea-a161-c0b78796df7b",
-            "Value": {
-                "id": "346f6f82-fce6-4c52-bef8-a03686506029",
-                "resourcePath": "objects\\Obj_CrearCliente\\Obj_CrearCliente.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "6cff0dbb-95fe-45a4-89e1-0363a24fa548",
             "Value": {
                 "id": "3d86676f-3bc8-4e19-84a7-647b52864d18",
@@ -276,14 +268,6 @@
                 "id": "bd97481c-223c-415d-9a1e-23d03aeae4ef",
                 "resourcePath": "views\\84fa28bb-450d-496a-bcb8-117259a9e084.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "878c8ef4-c651-4eef-b42d-580896112e6d",
-            "Value": {
-                "id": "8b430c77-2531-4dd9-9238-6e5518fb9860",
-                "resourcePath": "rooms\\GameOverMP\\GameOverMP.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -391,14 +375,6 @@
             }
         },
         {
-            "Key": "b03f0c32-1559-41f4-b136-1897b561e92f",
-            "Value": {
-                "id": "d0a41231-0715-40d2-a0c2-94530881341e",
-                "resourcePath": "objects\\Obj_CrearServidor\\Obj_CrearServidor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "b305876d-7050-4da6-9ae5-fca309faad66",
             "Value": {
                 "id": "547140fa-262b-453c-80df-598e49d1c4b1",
@@ -420,14 +396,6 @@
                 "id": "38e44c15-b357-4b89-930c-1ecc0897513e",
                 "resourcePath": "shaders\\shader0\\shader0.yy",
                 "resourceType": "GMShader"
-            }
-        },
-        {
-            "Key": "bcdc7ee2-08d7-4de9-aea7-c42d9911dd65",
-            "Value": {
-                "id": "7600baa5-61a7-4fc3-b34e-1d005fe0d216",
-                "resourcePath": "rooms\\Multiplayer\\Multiplayer.yy",
-                "resourceType": "GMRoom"
             }
         },
         {

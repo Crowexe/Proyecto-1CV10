@@ -6,10 +6,12 @@ if(press == false)
 switch (texto) {
     case "Un solo jugador":
         room_goto(Pacman1P);
+		global.ultimo_room=Pacman1P;
         break;
 		
 	case "Multijugador":
 		room_goto(InstruccionesMP);
+		global.ultimo_room=PacmanMP;
 		break;
 		
 	case "Marcador":
