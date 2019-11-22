@@ -1,0 +1,1 @@
+texto = "Volver a jugar MP"
