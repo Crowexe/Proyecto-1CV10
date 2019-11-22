@@ -2,7 +2,7 @@
     "id": "56c313ed-28c9-42c6-85bf-a27c0188ecbc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Obj_Aceptar",
+    "name": "Obj_Funcional",
     "eventList": [
         {
             "id": "bf3d85d3-8e1b-449b-ae9f-787e074d94fe",

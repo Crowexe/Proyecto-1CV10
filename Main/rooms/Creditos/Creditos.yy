@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "d3849a18-3a14-43ea-8089-838e3f431eb8"
+        "d3849a18-3a14-43ea-8089-838e3f431eb8",
+        "f68492d0-c8f4-43aa-a85f-f55c00188064"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_AB696E9","id": "d3849a18-3a14-43ea-8089-838e3f431eb8","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_AB696E9","objId": "c6b2cf15-46fe-4cd9-bc74-3255b8321092","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0}
+{"name": "inst_AB696E9","id": "d3849a18-3a14-43ea-8089-838e3f431eb8","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_AB696E9","objId": "c6b2cf15-46fe-4cd9-bc74-3255b8321092","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.1","x": 0,"y": 0},
+{"name": "inst_9354996","id": "f68492d0-c8f4-43aa-a85f-f55c00188064","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_9354996.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_9354996","objId": "56c313ed-28c9-42c6-85bf-a27c0188ecbc","properties": null,"rotation": 0,"scaleX": 0.4517134,"scaleY": 0.7241379,"mvc": "1.1","x": 832,"y": 640}
             ],
             "layers": [
 
