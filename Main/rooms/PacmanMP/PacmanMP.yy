@@ -1,6 +1,6 @@
 
 {
-    "name": "Pacman1P1",
+    "name": "PacmanMP",
     "id": "cf1750d1-ec26-47dd-a9e3-01290980c765",
     "creationCodeFile": "",
     "inheritCode": false,

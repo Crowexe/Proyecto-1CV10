@@ -9,7 +9,7 @@ switch (texto) {
         break;
 		
 	case "Multijugador":
-		room_goto(Multiplayer);
+		room_goto(InstruccionesMP);
 		break;
 		
 	case "Marcador":

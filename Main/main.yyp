@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "56c313ed-28c9-42c6-85bf-a27c0188ecbc",
+            "Value": {
+                "id": "818edd28-59c4-47cc-a2d0-3d9918dec9cf",
+                "resourcePath": "objects\\Obj_Aceptar\\Obj_Aceptar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "58a7fdf0-4c80-4b82-9dfb-298ade8ef5a5",
             "Value": {
                 "id": "13253364-fea2-4406-8a27-90f961fe3c06",
@@ -375,6 +383,14 @@
             }
         },
         {
+            "Key": "b6f90517-e9e0-49c6-8dab-529534bede2d",
+            "Value": {
+                "id": "72d05674-bea3-47bf-95ca-02166c00caba",
+                "resourcePath": "rooms\\InstruccionesMP\\InstruccionesMP.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "bb5b4dca-a4f5-49e0-8b97-7b753f318ce9",
             "Value": {
                 "id": "38e44c15-b357-4b89-930c-1ecc0897513e",
@@ -450,7 +466,7 @@
             "Key": "cf1750d1-ec26-47dd-a9e3-01290980c765",
             "Value": {
                 "id": "df10c540-e7f9-4465-87a9-08892c8aa061",
-                "resourcePath": "rooms\\Pacman1P1\\Pacman1P1.yy",
+                "resourcePath": "rooms\\PacmanMP\\PacmanMP.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -556,6 +572,14 @@
                 "id": "fed3e6b8-4756-48ad-ab65-fee2f9e8f37e",
                 "resourcePath": "rooms\\Menu\\Menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f7b79fae-c9b5-44cd-a8f9-fc03bb73e0a0",
+            "Value": {
+                "id": "46f91081-4cd2-476d-95b2-9de6496e14be",
+                "resourcePath": "sprites\\IMP_BG\\IMP_BG.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
