@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "027dc4e7-dc35-4704-bb9d-44930e6e17cb",
+            "Value": {
+                "id": "75b23414-f0ec-4491-89f9-61aa9e419173",
+                "resourcePath": "rooms\\Victoria\\Victoria.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "06efa2fc-820e-4230-a642-dd6b26bc496e",
             "Value": {
                 "id": "d39a72f8-5740-4dbf-b337-6bb15b7a4b62",
@@ -204,6 +212,14 @@
                 "id": "730faed7-f634-464a-a0fe-5b4cf2123e85",
                 "resourcePath": "views\\6094e7a4-f5b3-4047-952f-f33e9f1af778.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6794b4f5-0679-466e-8985-7633c63f733a",
+            "Value": {
+                "id": "2bf815fa-80dd-4ed0-bdc0-5c7b534e26aa",
+                "resourcePath": "rooms\\VictoriaMP\\VictoriaMP.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -516,6 +532,14 @@
                 "id": "875a08b5-19dc-4b9f-b50f-df707803772c",
                 "resourcePath": "views\\dee72cff-d7fd-4e1a-ad65-146137b6cada.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e542cf1d-aa12-4062-b9cb-f15b98643405",
+            "Value": {
+                "id": "8a6e4d39-bf5a-443a-ade8-a579d1d69ffb",
+                "resourcePath": "sprites\\Victoria_BG\\Victoria_BG.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
