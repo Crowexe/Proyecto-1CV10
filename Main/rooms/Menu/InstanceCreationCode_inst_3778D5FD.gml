@@ -1,1 +1,0 @@
-texto = "Un solo jugador"
