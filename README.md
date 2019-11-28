@@ -18,13 +18,13 @@ Rafael Norman Saucedo Delgado
 
 ## **Descripción**  
 
-El juego constará de un modo para un solo jugador, donde se podrá disfrutar del clásico juego de pac-man y 
-competir en el marcador de los mejores diez. Sumado a un modo multijugador de dos controles en el mismo teclado,
-pac-man vs fantasmas, uno de los fantasmas sera controlado por un jugador con las teclas w (subir), a (izquierda), 
-s (bajar), d (derecha) y el otro jugador controlara a pac-man con las teclas de flechas, en este modo el objetivo 
-general de pac-man sera escapar del fantasma manipulado por el otro jugador y comer el poder para posteriormente 
-comerse al fantasma y en ese momento el juego termina con victoria para el jugador pac-man y en el caso del jugador
-que manipula el fantasma sera atrapar a pac-man tres veces para tener la victoria en el juego.
+El juego constará de un modo para un solo jugador, donde se podrá disfrutar del clásico juego de pac-man. Sumado
+a un modo multijugador de dos controles en el mismo teclado, pac-man vs fantasmas, uno de los fantasmas sera 
+controlado por un jugador con las teclas w (subir), a (izquierda), s (bajar), d (derecha) y el otro jugador controlara
+a pac-man con las teclas de flechas, en este modo el objetivo general de pac-man sera escapar del fantasma manipulado
+por el otro jugador y comer el poder para posteriormente comerse al fantasma y en ese momento el juego termina con 
+victoria para el jugador pac-man y en el caso del jugador que manipula el fantasma sera atrapar a pac-man tres veces 
+para tener la victoria en el juego.
   
   
 ## **Instrucciones de inicio**  
