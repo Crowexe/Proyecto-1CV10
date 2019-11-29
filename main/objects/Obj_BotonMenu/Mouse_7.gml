@@ -14,7 +14,6 @@ switch (texto) {
 		global.ultimo_room=PacmanMP;
 		break;
 	
-		
 	case "Creditos":
 		room_goto(Creditos);
 		break;

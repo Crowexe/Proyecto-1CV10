@@ -11,3 +11,8 @@ instance_deactivate_object(FantasmaMulti1);
 
 alarm[0] = room_speed*10; //Aparece la fruta 	
 alarm[1] = room_speed*15; //Aumenta la velocidad el juego cada 8s
+
+if(global.Puntos == 1500)
+{
+	room_goto(Victoria);
+}

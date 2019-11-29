@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "6794b4f5-0679-466e-8985-7633c63f733a",
-            "Value": {
-                "id": "2bf815fa-80dd-4ed0-bdc0-5c7b534e26aa",
-                "resourcePath": "rooms\\VictoriaMP\\VictoriaMP.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "67f2aa6d-f840-4b28-9c60-746d0a997e4e",
             "Value": {
                 "id": "375bc270-115c-4f5f-afb8-b3bcbcd76ff8",
@@ -243,6 +235,14 @@
             "Value": {
                 "id": "1ce321c5-d4ef-4c75-8d5c-b071cca53bac",
                 "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6bcca156-1657-4138-af1e-2051295a6332",
+            "Value": {
+                "id": "406324a7-fb4b-433c-b9e2-7a9bbb5bc3c5",
+                "resourcePath": "sprites\\VictoriaFBG\\VictoriaFBG.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "9938f237-adaa-48eb-aebd-30d412f99fc8",
+            "Value": {
+                "id": "a7af890a-3522-4b7a-b47c-a7467d10cbca",
+                "resourcePath": "sprites\\VictoriaPM\\VictoriaPM.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9bdd334b-5799-42ff-82c1-3dbf7ef7922e",
             "Value": {
                 "id": "945264dc-2057-4bd4-b80f-335a634a816c",
@@ -356,6 +364,14 @@
                 "id": "4628898a-c315-4c3a-bdf9-33dd9e8b9660",
                 "resourcePath": "objects\\Jugador\\Jugador.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a899c064-cf4d-4218-ac2f-702e0c5c436f",
+            "Value": {
+                "id": "20717302-affd-41dc-bb0d-d9c4187432c9",
+                "resourcePath": "rooms\\VictoriaFSM\\VictoriaFSM.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -532,14 +548,6 @@
                 "id": "875a08b5-19dc-4b9f-b50f-df707803772c",
                 "resourcePath": "views\\dee72cff-d7fd-4e1a-ad65-146137b6cada.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e542cf1d-aa12-4062-b9cb-f15b98643405",
-            "Value": {
-                "id": "8a6e4d39-bf5a-443a-ade8-a579d1d69ffb",
-                "resourcePath": "sprites\\Victoria_BG\\Victoria_BG.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
