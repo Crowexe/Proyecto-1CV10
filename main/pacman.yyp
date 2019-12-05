@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "01cb392c-dcb8-4695-b9fe-8e485382c02f",
+            "Value": {
+                "id": "21e12509-595c-4ef4-a08c-0e68ff07ab3e",
+                "resourcePath": "objects\\Obj_BotonMarcador3\\Obj_BotonMarcador3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "027dc4e7-dc35-4704-bb9d-44930e6e17cb",
             "Value": {
                 "id": "75b23414-f0ec-4491-89f9-61aa9e419173",
@@ -55,11 +63,11 @@
             }
         },
         {
-            "Key": "0c848892-ea56-4e71-becc-bb803a0d7b4d",
+            "Key": "0c6675df-165f-46f1-a309-8735d6eb114c",
             "Value": {
-                "id": "1c80d0af-1686-41b0-ab62-853c43ace820",
-                "resourcePath": "rooms\\MarcadorMP\\MarcadorMP.yy",
-                "resourceType": "GMRoom"
+                "id": "b88c6fc2-dc1e-469c-9a95-4285812afd44",
+                "resourcePath": "objects\\Obj_BotonMarcador5\\Obj_BotonMarcador5.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -76,6 +84,14 @@
                 "id": "7dd0048c-780b-48b0-a755-8d32c83213f4",
                 "resourcePath": "views\\11c31b48-728b-49ce-ad2b-cef93a5a2951.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1c64e2b3-ab74-4e86-8a5f-2d6310e53396",
+            "Value": {
+                "id": "c2a27d49-374a-4be9-aba5-5766a501f57e",
+                "resourcePath": "objects\\Obj_BotonMarcador6\\Obj_BotonMarcador6.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -115,6 +131,14 @@
             "Value": {
                 "id": "fd26cb95-b4bc-46d1-96a1-51a5d5703f99",
                 "resourcePath": "objects\\Control\\Control.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "373cfb88-27d3-4fdf-adb0-0eb0ab5989cf",
+            "Value": {
+                "id": "4654fb73-fcfd-4d10-92aa-72847ce673cb",
+                "resourcePath": "objects\\Obj_BotonMarcador2\\Obj_BotonMarcador2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -188,6 +212,14 @@
                 "id": "614aa7d2-83d4-4f6b-90c5-37eddf41c2f5",
                 "resourcePath": "sprites\\Marcadores_BG\\Marcadores_BG.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5424b9e7-1e94-4af5-b842-800d1b0e83f7",
+            "Value": {
+                "id": "f4b574fb-0873-4b42-bfe6-162b31beb583",
+                "resourcePath": "objects\\Obj_BotonMarcador9\\Obj_BotonMarcador9.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -319,6 +351,14 @@
             }
         },
         {
+            "Key": "95b71171-afa2-4961-b654-27dc05ebaa86",
+            "Value": {
+                "id": "3d83f0bd-8cb7-457c-af9c-dbc092c3d2cd",
+                "resourcePath": "objects\\Obj_BotonMarcador7\\Obj_BotonMarcador7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9938f237-adaa-48eb-aebd-30d412f99fc8",
             "Value": {
                 "id": "a7af890a-3522-4b7a-b47c-a7467d10cbca",
@@ -407,6 +447,14 @@
             }
         },
         {
+            "Key": "b29d74bd-ea4c-4ac4-a450-bc52cbdf4530",
+            "Value": {
+                "id": "a89c4040-9feb-4d66-b676-89d47fc5af57",
+                "resourcePath": "objects\\Obj_BotonMarcador8\\Obj_BotonMarcador8.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b305876d-7050-4da6-9ae5-fca309faad66",
             "Value": {
                 "id": "547140fa-262b-453c-80df-598e49d1c4b1",
@@ -474,7 +522,7 @@
             "Key": "cbf69c5f-1437-435a-9d72-ec9c2ddcf7d0",
             "Value": {
                 "id": "77c7310d-8850-4f6b-9bc1-6a70ea27d2b1",
-                "resourcePath": "objects\\object6\\object6.yy",
+                "resourcePath": "objects\\Marcador\\Marcador.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -532,6 +580,14 @@
                 "id": "fae93cca-be38-4013-928a-8cd2d5236977",
                 "resourcePath": "sprites\\fantasma\\fantasma.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "da8d9558-02e6-49c4-b7f1-a2de49b985c1",
+            "Value": {
+                "id": "496cfec3-a028-4d07-9145-b7a49814e129",
+                "resourcePath": "objects\\Obj_BotonMarcador1\\Obj_BotonMarcador1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -628,6 +684,14 @@
                 "id": "550f220f-4006-42ec-a0b8-4c78189fd3e7",
                 "resourcePath": "views\\fb092f50-527a-4324-b050-f30b5764303e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fb639e02-acf7-4980-8e41-a87915efb433",
+            "Value": {
+                "id": "cc8275c2-0b5c-470d-a138-c7baf312ef13",
+                "resourcePath": "objects\\Obj_BotonMarcador4\\Obj_BotonMarcador4.yy",
+                "resourceType": "GMObject"
             }
         },
         {

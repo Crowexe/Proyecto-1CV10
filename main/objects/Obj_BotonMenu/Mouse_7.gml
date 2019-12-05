@@ -14,7 +14,17 @@ switch (texto) {
 		global.ultimo_room=PacmanMP;
 		break;
 	
+	case "Marcador":
+	    ds_list_sort(global.Marcador, false);
+		room_goto(MarcadorSP);
+		break;
+	
 	case "Creditos":
 		room_goto(Creditos);
+		break;
+		
+	case "Salir": 
+		ds_list_destroy(global.Marcador);
+		game_end();
 		break;
 }

@@ -16,7 +16,5 @@ switch (texto) {
 		room_goto(global.ultimo_room);
 		break;
 
-	case "Salir": 
-		game_end();
-		break;
+	
 }

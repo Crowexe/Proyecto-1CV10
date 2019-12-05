@@ -26,7 +26,9 @@ if  !(global.Golpe)
 	
 	sprite_index = movmorir; 
 	image_speed =1; 
-	if(ds_stack_empty(global.Vidas)){
+	if(ds_stack_empty(global.Vidas))
+	{
+		ds_list_add(global.Marcador, global.Puntos);
 		room_goto(GameOver);
 	}
 	global.Golpe = true;

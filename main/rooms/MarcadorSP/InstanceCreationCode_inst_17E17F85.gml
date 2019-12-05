@@ -1,1 +1,1 @@
-texto = "Single player"
+texto = "1st.  ";
